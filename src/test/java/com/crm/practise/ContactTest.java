@@ -7,6 +7,7 @@ public class ContactTest {
 	@Test(groups={"SmokeTest"})
 	public void createCustomerTest() {
 		System.out.println("execute  createCustomerTest");
+	//Harish
 		
 	}
 	@Test(groups={"RegressionTest"})
